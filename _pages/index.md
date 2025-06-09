@@ -8,7 +8,7 @@ classes: wide
 
 <!-- Profile photo -->
 <p align="center">
-  <img src="/assets/images/profile.jpg" alt="Lesan Kiptoo" style="width:180px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+  <img src="/assets/images/LesanProfile.jpg" alt="Lesan Kiptoo" style="width:180px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
 </p>
 
 <!-- Full name -->
