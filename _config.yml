@@ -14,7 +14,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  author:
   name: "Lesan Kiptoo"
   avatar: "/assets/images/lesanProfile.jpg"
   bio: "Cybersecurity enthusiast focused on network and cloud security."
@@ -31,6 +30,7 @@ author:
     - label: "Phone"
       icon: "fas fa-phone"
       url: "tel:+254727919676/254721623808"
+  
 
 
 collections:
