@@ -1,6 +1,6 @@
 title: "Lesan's Portfolio"
 name: "Lesan"
-email: "lesan@email.com"
+email: "lesankiptoo@gmail.com"
 description: "Lesan's portfolio"
 url: "https://LesanKiptoo.github.io" 
 baseurl: "" 
@@ -21,7 +21,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:lesankiptoo@gmail.com"
+      url: "lesankiptoo@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/LesanKiptoo"
