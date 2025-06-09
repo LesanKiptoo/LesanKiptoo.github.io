@@ -109,7 +109,7 @@ _Maseno University_
 📞 Phone: 0727919676 / 0721623808
 
 
-[Explore Contact](/contact)
+[Explore Contact](/contacts)
 
 
 
