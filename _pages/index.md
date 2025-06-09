@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Lesan Kiptoo"
 permalink: /
 author_profile: false
 classes: wide
@@ -9,9 +10,6 @@ classes: wide
 <p align="center">
   <img src="/assets/images/lesanProfile.jpg" alt="Lesan Kiptoo" style="width:180px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
 </p>
-
-<!-- Full name -->
-<h1 class="text-center">Lesan Kiptoo</h1>
 
 <!-- One clear tagline -->
 <p class="text-center">
