@@ -1,11 +1,11 @@
 title: "Lesan's Portfolio"
 name: "Lesan"
 email: "lesan@email.com"
-description: "Cybersecurity portfolio"
+description: "Lesan's portfolio"
 url: "https://LesanKiptoo.github.io" 
 baseurl: "" 
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -29,6 +29,6 @@ defaults:
     values:
       layout: single
 
-remote_theme: mmistakes/minimal-mistakes
+
 
 
