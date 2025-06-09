@@ -11,7 +11,7 @@ paginate: false
 
 Hi, I’m **Lesan Kiptoo** 👋  
 Cybersecurity enthusiast exploring network security, cloud security, and ethical hacking. Passionate about solving technical challenges and learning through labs.
-
+<!--
 ---
 
 ## 📜 Resume Summary
@@ -51,9 +51,9 @@ _Maseno University_
 - Python Programming  
 - Penetration Testing  
 - Cloud Computing
-
+-->
 [View full resume →](/resume)
-
+<!--
 ---
 
 ## 🔧 Featured Projects
@@ -74,9 +74,9 @@ _Maseno University_
 - Configured routers, switches, VLANs, and both IPv4/IPv6  
 - Used tools like `ping` and `show` commands for connectivity testing  
 - Gained hands-on understanding of **network topologies and troubleshooting**
-
+-->
 [See all projects →](/projects)
-
+<!--
 ---
 
 ## 🧪 Lab Challenges
@@ -96,9 +96,9 @@ _Maseno University_
 - Interacted with API endpoints using **HTTP methods** via `curl`  
 - Performed CRUD operations and learned **REST API mechanics**  
 - Retrieved flags and understood client-server communication for security testing
-
+-->
 [Explore Labs →](/labs)
-
+<!--
 ---
 
 ## 📬 Contact
@@ -108,7 +108,7 @@ _Maseno University_
 💼 LinkedIn: www.linkedin.com/in/lesan-kiptoo<br>
 📞 Phone: 0727919676 / 0721623808
 
-
+-->
 [Explore Contact](/contacts)
 
 
