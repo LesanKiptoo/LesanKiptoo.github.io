@@ -110,10 +110,3 @@ _Maseno University_
 
 ---
 
-
-## 📬 Contact
-
-📧 **Email**: lesankitoo@gmail.com  
-🔗 **Github**: https://github.com/lesankiptoo
-💼 **Linkedln**: www.linkedin.com/in/lesan-kiptoo 
-📞 **Phone**: 0727919676 / 0721623808
