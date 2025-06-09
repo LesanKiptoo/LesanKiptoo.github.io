@@ -2,10 +2,10 @@ title: "Lesan Kiptoo Portfolio"
 name: "Lesan"
 email: "lesankiptoo@gmail.com"
 description: "Lesan's portfolio"
-url: "https://LesanKiptoo.github.io" 
-baseurl: "" 
+url: "https://LesanKiptoo.github.io"
+baseurl: ""
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -20,7 +20,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "lesankiptoo@gmail.com"
+      url: "mailto:lesankiptoo@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/LesanKiptoo"
@@ -29,9 +29,7 @@ author:
       url: "https://linkedin.com/in/lesankiptoo"
     - label: "Phone"
       icon: "fas fa-phone"
-      url: "tel:+254727919676/254721623808"
-  
-
+      url: "tel:+254727919676"
 
 collections:
   pages:
@@ -43,8 +41,8 @@ defaults:
       type: pages
     values:
       layout: single
-paginate: 0
 
+paginate: 0
 
 
 
