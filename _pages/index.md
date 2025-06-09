@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Lesan Kiptoo"
 permalink: /
 author_profile: false
 classes: wide
