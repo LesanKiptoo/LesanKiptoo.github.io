@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Lesan Kiptoo"
-  avatar : "/assets/images/Lesan.jpg"
+  avatar : "/assets/images/LesanProfile.jpg"
   bio    : "I’m a cybersecurity enthusiast passionate about ethical hacking, network security, and cloud security. Currently pursuing hands-on labs through Hack The Box and working on mastering tools like Wireshark, Nmap, and Metasploit. I’m building a strong foundation in cloud and networking to secure modern infrastructures."
   links:
     - label: "Website"
