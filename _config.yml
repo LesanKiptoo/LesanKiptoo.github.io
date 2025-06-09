@@ -5,7 +5,7 @@ description: "Lesan's portfolio"
 url: "https://LesanKiptoo.github.io"
 baseurl: ""
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-feed
@@ -44,7 +44,6 @@ defaults:
     values:
       layout: single
 
-paginate: 0
 
 
 
