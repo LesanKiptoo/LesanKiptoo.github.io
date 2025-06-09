@@ -58,47 +58,43 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Lesan Kiptoo"
+  name   : "Lesan"
   avatar : "/assets/images/LesanProfile.jpg"
   bio    : "I’m a cybersecurity enthusiast passionate about ethical hacking, network security, and cloud security. Currently pursuing hands-on labs through Hack The Box and working on mastering tools like Wireshark, Nmap, and Metasploit. I’m building a strong foundation in cloud and networking to secure modern infrastructures."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+
+    - label: "Linkedln"
+      icon: "fab fa-fw fa-linkedln-square"
+      url: "www.linkedin.com/in/lesan-kiptoo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/LesanKiptoo"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "lesankiptoo@gmail.com/lessanletting@gmail.com"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedln"
+      icon: "fab fa-fw fa-linkedln-square"
+      url: "www.linkedin.com/in/lesan-kiptoo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/LesanKiptoo"
+    - label: "Email"
+      icon: "fab fa-fw fa-email"
+      url: "lesankiptoo@gmail.com/lessanletting@gmail.com"
+
+collections:
+  pages:
+    output: true
 
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -113,3 +109,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+
