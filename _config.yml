@@ -16,8 +16,8 @@ plugins:
 
 author:
   name: "Lesan Kiptoo"
-  avatar: "/assets/images/LesanProfile.png"
-  bio: "Cybersecurity | Networks | Cloud"
+  avatar: "/assets/images/LesanProfile.jpg"
+  bio: "Cybersecurity enthusiast focused on network and cloud security."
   location: "Kenya"
   links:
     - label: "Email"
