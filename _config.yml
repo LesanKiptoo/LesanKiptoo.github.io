@@ -15,8 +15,8 @@ plugins:
 
 author:
   author:
-  name: "Lesan"
-  avatar: "/assets/images/lesan_profile_400x400.jpg"
+  name: "Lesan Kiptoo"
+  avatar: "/assets/images/lesanProfile.jpg"
   bio: "Cybersecurity enthusiast focused on network and cloud security."
   links:
     - label: "Email"
