@@ -29,5 +29,6 @@ defaults:
     values:
       layout: single
 
+remote_theme: mmistakes/minimal-mistakes
 
 
