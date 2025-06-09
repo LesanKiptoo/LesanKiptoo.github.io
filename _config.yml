@@ -27,12 +27,10 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/lesankiptoo"
-    - label: "Phone 1"
+    - label: "Phone"
       icon: "fas fa-phone"
       url: "tel:+254727919676"
-    - label: "Phone 2"
-      icon: "fas fa-phone"
-      url: "tel:+254721623808"
+
 
 collections:
   pages:
