@@ -16,21 +16,23 @@ plugins:
 
 author:
   name: "Lesan Kiptoo"
-  avatar: "/assets/images/lesanProfile.jpg"
-  bio: "Cybersecurity enthusiast focused on network and cloud security."
+  avatar: "/assets/images/LesanProfile.png"
+  bio: "Cybersecurity | Networks | Cloud"
+  location: "Kenya"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:lesankiptoo@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/LesanKiptoo"
+      url: "https://github.com/lesankiptoo"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/lesankiptoo"
+      url: "https://www.linkedin.com/in/lesan-kiptoo"
     - label: "Phone"
       icon: "fas fa-phone"
       url: "tel:+254727919676"
+
 
 
 collections:
