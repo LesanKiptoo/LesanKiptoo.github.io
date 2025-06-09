@@ -1,3 +1,6 @@
+![Profile Picture](/assets/images/profile.jpg)
+
+
 [View Full Resume →](/resume/)
 [See All Projects →](/projects/)
 [Explore Labs →](/labs/)
