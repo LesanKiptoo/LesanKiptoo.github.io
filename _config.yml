@@ -14,9 +14,24 @@ plugins:
   - jekyll-include-cache
 
 author:
+  author:
   name: "Lesan"
-  avatar: "/assets/images/lesanProfile.jpg"
+  avatar: "/assets/images/lesan_profile_400x400.jpg"
   bio: "Cybersecurity enthusiast focused on network and cloud security."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:lesankiptoo@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/LesanKiptoo"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/lesankiptoo"
+    - label: "Phone"
+      icon: "fas fa-phone"
+      url: "tel:+254727919676/254721623808"
+
 
 collections:
   pages:
