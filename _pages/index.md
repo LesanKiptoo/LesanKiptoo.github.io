@@ -16,7 +16,7 @@ classes: wide
 
 <!-- One clear tagline -->
 <p class="text-center">
-  I explore networks, break things ethically, and build secure systems.
+  Cybersecurity enthusiast exploring network and cloud security and ethical hacking. Passionate about solving technical challenges and learning through labs.
 </p>
 
 <!-- Subfields / Interests -->
