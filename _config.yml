@@ -1,7 +1,7 @@
 title: "Lesan Kiptoo Portfolio"
 name: "Lesan"
 email: "lesankiptoo@gmail.com"
-description: "Lesan's portfolio"
+description: "Lesan Kiptoo portfolio"
 url: "https://LesanKiptoo.github.io"
 baseurl: ""
 
@@ -16,7 +16,7 @@ plugins:
 
 author:
   name: "Lesan Kiptoo"
-  avatar: "/assets/images/LesanProfile.jpg"
+  avatar: "/assets/images/lesanProfile.jpg"
   bio: "Cybersecurity enthusiast focused on network and cloud security."
   location: "Kenya"
   links:
