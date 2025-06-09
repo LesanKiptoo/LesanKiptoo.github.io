@@ -3,7 +3,11 @@ layout: home
 title: "Lesan's Portfolio"
 author_profile: true
 permalink: /
+entries_layout: grid
+show_excerpts: false
+paginate: false
 ---
+
 
 Hi, I’m **Lesan Kiptoo** 👋  
 Cybersecurity enthusiast exploring network security, cloud security, and ethical hacking. Passionate about solving technical challenges and learning through labs.
