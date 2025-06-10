@@ -26,7 +26,7 @@ classes: wide
   <a href="/resume/" class="btn btn--primary">➡️ View Resume</a>
   <a href="/projects/" class="btn btn--info">➡️ My Projects</a>
   <a href="/labs/" class="btn btn--success">➡️ Lab Challenges</a>
-  <a href="/contact/" class="btn btn--warning">➡️ Contact Me</a>
+  <a href="/contacts/" class="btn btn--warning">➡️ Contact Me</a>
 </p>
 
 
