@@ -18,7 +18,7 @@ classes: wide
 
 <!-- Subfields / Interests -->
 <p class="text-center">
-  <strong>Cybersecurity Enthusiast</strong> &bull; <strong>DevOps</strong> &bull; <strong>Cloud</strong>
+  <strong>Cybersecurity Enthusiast</strong> &bull; <strong>Networking</strong> &bull; <strong>Cloud</strong>
 </p>
 
 <!-- Buttons styled with Minimal Mistakes built-in classes -->
